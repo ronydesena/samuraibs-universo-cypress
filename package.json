@@ -1,0 +1,15 @@
+{
+  "name": "samuraibs-tests",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação de ponta a ponta em Cypress",
+  "main": "index.js",
+  "author": "Rony Sena",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^6.1.2",
+    "cypress": "^9.5.4"
+  },
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
+}
